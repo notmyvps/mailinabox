@@ -2,7 +2,7 @@
 
 source setup/functions.sh
 
-echo "Installing Mail-in-a-Box system management daemon..."
+echo "Installing Mail system management daemon..."
 
 # DEPENDENCIES
 

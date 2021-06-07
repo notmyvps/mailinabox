@@ -1,3 +1,6 @@
+TEST --- DO NOT USE IN PROD!
+
+
 Mail-in-a-Box
 =============
 
@@ -56,9 +59,8 @@ For experts, start with a completely fresh (really, I mean it) Ubuntu 18.04 LTS 
 
 Clone this repository and checkout the tag corresponding to the most recent release:
 
-	$ git clone https://github.com/mail-in-a-box/mailinabox
+	$ git clone https://github.com/notmyvps/mailinabox
 	$ cd mailinabox
-	$ git checkout v0.53a
 
 Begin the installation.
 
